@@ -1,0 +1,27 @@
+{
+    "accuracy": 0.9514,
+    "sparsity": 0,
+    "NonCallBack": {
+        "ObjectiveValue": 5.363415502354174,
+        "MostNegativeValue": 5.3634161949157715,
+        "TimeFirstNegative": null,
+        "SolverStatus": 9,
+        "Runtime": 300.08723402023315,
+        "Batch_num": 1
+    },
+    "RemoveRegion": {
+        "ObjectiveValue": null,
+        "MostNegativeValue": -3.913707733154297,
+        "TimeFirstNegative": 284.80121302604675,
+        "SolverStatus": 9,
+        "Runtime": 300.0091218948364
+    },
+    "NonZeroParams": 63370,
+    "ParametersDetails": {
+        "1.weight": 50176,
+        "3.weight": 4096,
+        "5.weight": 4096,
+        "7.weight": 4096,
+        "9.weight": 640
+    }
+}

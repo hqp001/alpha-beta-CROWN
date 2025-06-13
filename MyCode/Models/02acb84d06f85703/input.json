@@ -1,0 +1,8 @@
+{
+    "data_seed": 80,
+    "training_seed": 82,
+    "n_pixel_1d": 18,
+    "n_layers": 4,
+    "layer_size": 64,
+    "training_epochs": 5
+}

@@ -1,0 +1,33 @@
+{
+    "test_score": 0.978,
+    "sparsity": 0.3,
+    "n_rounds": 5,
+    "prune_epochs": 5,
+    "norm": "L1",
+    "generate_time": 201.92032599449158,
+    "structured": false,
+    "fine_tune": false,
+    "NonCallBack": {
+        "ObjectiveValue": 2.325746367163763,
+        "MostNegativeValue": 2.8776540756225586,
+        "TimeFirstNegative": null,
+        "SolverStatus": 9,
+        "Runtime": 300.2232389450073,
+        "Batch_num": 1
+    },
+    "RemoveRegion": {
+        "ObjectiveValue": null,
+        "MostNegativeValue": -4.853607654571533,
+        "TimeFirstNegative": 29.480313062667847,
+        "SolverStatus": 9,
+        "Runtime": 300.0226731300354
+    },
+    "NonZeroParams": 44438,
+    "ParametersDetails": {
+        "1.weight": 35123,
+        "3.weight": 2867,
+        "5.weight": 2867,
+        "7.weight": 2867,
+        "9.weight": 448
+    }
+}

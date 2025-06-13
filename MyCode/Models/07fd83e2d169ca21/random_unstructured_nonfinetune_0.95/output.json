@@ -1,0 +1,26 @@
+{
+    "test_score": 0.0982,
+    "sparsity": 0.95,
+    "n_rounds": 5,
+    "prune_epochs": 5,
+    "norm": "random",
+    "generate_time": 2.0545029640197754,
+    "structured": false,
+    "fine_tune": false,
+    "NonCallBack": {
+        "ObjectiveValue": 1.056867137263044,
+        "MostNegativeValue": -0.95082688331604,
+        "TimeFirstNegative": 0.10831499099731445,
+        "SolverStatus": 2,
+        "Runtime": 0.12578916549682617,
+        "Batch_num": 1
+    },
+    "NonZeroParams": 3422,
+    "ParametersDetails": {
+        "1.weight": 2509,
+        "3.weight": 205,
+        "5.weight": 205,
+        "7.weight": 205,
+        "9.weight": 32
+    }
+}
